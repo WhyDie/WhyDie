@@ -1,16 +1,49 @@
-## Hi there 👋
+# Привіт! Я Данило Віщун 👋 
 
-<!--
-**WhyDie/WhyDie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Engineer | Cybersecurity Researcher | UAV Systems Specialist**
 
-Here are some ideas to get you started:
+Я розробник із Києва, що спеціалізується на створенні захищених систем автоматизації та дослідженні вразливостей. Мій підхід базується на поєднанні сучасного стеку розробки з глибокою мережевою експертизою та інженерією БПЛА.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏛️ Ключовий проект
+**Інтерактивна система адаптації для підготовки нових військовослужбовців**
+* **Мета:** Побудова комплексної платформи для структурування та автоматизації процесу навчання особового складу.
+* **Стек:** React, Node.js, TypeScript.
+* **Data Architecture:** Проектування складних реляційних структур на базі MySQL для забезпечення цілісності та швидкодії даних.
+
+---
+
+### 🛠️ Технічний арсенал
+
+#### **[ Розробка ПЗ ]**
+* **Backend:** Java (Spring Boot), Node.js, Python (автоматизація та інструменти).
+* **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5/CSS3.
+* **Бази даних:** MySQL (пріоритетна СУБД), проектування та оптимізація запитів.
+* **DevOps:** Docker, Git/GitHub, CI/CD процеси.
+
+#### **[ Кібербезпека та Мережі ]**
+* **Security Testing:** Робота з фреймворками `Metasploit` та `Nuclei` для верифікації вразливостей.
+* **Network Analysis:** Глибоке сканування та аналіз мережевих топологій за допомогою `Nmap`.
+* **Virtualization:** Емуляція складних мережевих середовищ у `GNS3`.
+
+#### **[ UAV Engineering ]**
+* **FPV Systems:** Повний цикл збірки, пайки та налаштування компонентів.
+* **Control Protocols:** Конфігурація `ELRS`, робота з апаратурою `RadioMaster`.
+* **Firmware:** Професійне налаштування польотних контролерів у `Betaflight`.
+
+---
+
+### 📊 Статистика активності
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НІКНЕЙМ&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НІКНЕЙМ&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🎾 Поза кодом (Інтереси)
+Для підтримки балансу та дисципліни я займаюся:
+* **Спорт:** Великий теніс та регулярні бігові тренування.
+* **Музика:** Гітара (акустична та електро).
+* **Графічний дизайн:** Малювання та створення дизайнів.
