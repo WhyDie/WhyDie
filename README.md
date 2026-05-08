@@ -50,8 +50,3 @@ I am a software engineer and cybersecurity researcher focused on full-stack deve
 ![ELRS](https://img.shields.io/badge/ExpressLRS-black?style=for-the-badge)
 ![RadioMaster](https://img.shields.io/badge/RadioMaster-red?style=for-the-badge)
 
----
-
-### 📫 Reach out:
-[![Email](https://img.shields.io/badge/Email-WhyDie-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/WhyDie)
