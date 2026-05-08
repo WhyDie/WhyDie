@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=WhyDie&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=IT'S JOHNNY!&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer&text=End%20of%20Transmission&fontSize=20&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer&text=FUCK OFF&fontSize=20&fontAlignY=80" />
 </p>
