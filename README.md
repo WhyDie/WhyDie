@@ -1,49 +1,55 @@
-# Привіт! Я Данило Віщун 👋 
+# Hi! My name is Danylo Vishchun
 
-**Full-Stack Engineer | Cybersecurity Researcher | UAV Systems Specialist**
+I am a software engineer and cybersecurity researcher. While Java is my core strength for building robust systems, I am deeply involved in network security, pentesting, and UAV engineering. I focus on creating secure solutions that bridge the gap between software and hardware.
 
-Я розробник із Києва, що спеціалізується на створенні захищених систем автоматизації та дослідженні вразливостей. Мій підхід базується на поєднанні сучасного стеку розробки з глибокою мережевою експертизою та інженерією БПЛА.
+🔭 I’m currently working on **Interactive adaptation system for military training**
+
+⚡ Fun fact: I build FPV drones and believe that a good developer should understand both the code and the hardware it runs on.
+
+### 🛠 Tech Stack
+
+**Familiar languages:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Core:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Libraries/Frameworks:**
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cybersecurity Tools:**
+![Nmap](https://img.shields.io/badge/nmap-%234A4A4A.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/metasploit-%23000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-3153A5?style=for-the-badge&logo=gns3&logoColor=white)
+
+**Virtualization & Management:**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**UAV Systems:**
+![Betaflight](https://img.shields.io/badge/Betaflight-FF9000?style=for-the-badge&logo=air-force&logoColor=white)
+![ELRS](https://img.shields.io/badge/ExpressLRS-black?style=for-the-badge)
 
 ---
 
-### 🏛️ Ключовий проект
-**Інтерактивна система адаптації для підготовки нових військовослужбовців**
-* **Мета:** Побудова комплексної платформи для структурування та автоматизації процесу навчання особового складу.
-* **Стек:** React, Node.js, TypeScript.
-* **Data Architecture:** Проектування складних реляційних структур на базі MySQL для забезпечення цілісності та швидкодії даних.
+### 🎾 Hobbies & Interests
+* **Sport:** Big Tennis & High-performance running.
+* **Music:** Playing Guitar (Acoustic/Electric).
+* **Gaming:** Tactical thinking in Counter-Strike 2.
 
----
-
-### 🛠️ Технічний арсенал
-
-#### **[ Розробка ПЗ ]**
-* **Backend:** Java (Spring Boot), Node.js, Python (автоматизація та інструменти).
-* **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5/CSS3.
-* **Бази даних:** MySQL (пріоритетна СУБД), проектування та оптимізація запитів.
-* **DevOps:** Docker, Git/GitHub, CI/CD процеси.
-
-#### **[ Кібербезпека та Мережі ]**
-* **Security Testing:** Робота з фреймворками `Metasploit` та `Nuclei` для верифікації вразливостей.
-* **Network Analysis:** Глибоке сканування та аналіз мережевих топологій за допомогою `Nmap`.
-* **Virtualization:** Емуляція складних мережевих середовищ у `GNS3`.
-
-#### **[ UAV Engineering ]**
-* **FPV Systems:** Повний цикл збірки, пайки та налаштування компонентів.
-* **Control Protocols:** Конфігурація `ELRS`, робота з апаратурою `RadioMaster`.
-* **Firmware:** Професійне налаштування польотних контролерів у `Betaflight`.
-
----
-
-### 📊 Статистика активності
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НІКНЕЙМ&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НІКНЕЙМ&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🎾 Поза кодом (Інтереси)
-Для підтримки балансу та дисципліни я займаюся:
-* **Спорт:** Великий теніс та регулярні бігові тренування.
-* **Музика:** Гітара (акустична та електро).
-* **Графічний дизайн:** Малювання та створення дизайнів.
+### 📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-Danylo--Vishchun-blue?style=for-the-badge&logo=gmail)](mailto:ТВОЯ_ПОШТА@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ТВІЙ_ЛІНКЕДІН)
