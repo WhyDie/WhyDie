@@ -22,11 +22,6 @@ I am a software engineer and cybersecurity researcher focused on full-stack deve
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Frontend & Web:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 **Databases:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,14 +34,35 @@ I am a software engineer and cybersecurity researcher focused on full-stack deve
 ![GNS3](https://img.shields.io/badge/GNS3-3153A5?style=for-the-badge&logo=gns3&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Infrastructure & Management:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 **UAV & Embedded Engineering:**
 ![Betaflight](https://img.shields.io/badge/Betaflight-FF9000?style=for-the-badge&logo=air-force&logoColor=white)
 ![ELRS](https://img.shields.io/badge/ExpressLRS-black?style=for-the-badge)
 ![RadioMaster](https://img.shields.io/badge/RadioMaster-red?style=for-the-badge)
 
+---
+
+### 📈 Analytics & GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WhyDie&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyDie&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=WhyDie&theme=tokyonight&hide_border=true" />
+</p>
+
+#### 📊 Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WhyDie&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 📫 Reach out:
+[![Email](https://img.shields.io/badge/Email-WhyDie-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/WhyDie)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WhyDie&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+</p>
