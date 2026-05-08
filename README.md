@@ -83,7 +83,7 @@
 
 ### 📫 Secure Line
 <p align="center">
-<a href="mailto:jokailxx@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" /></a>
+<a href="mailto:deadbutnotnow@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" /></a>
 <a href="https://github.com/WhyDie"><img src="https://img.shields.io/badge/GitHub-WhyDie-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
